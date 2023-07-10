@@ -185,3 +185,5 @@ spec:
     weight: 100
   port:
     targetPort: sonarqube
+  tls:
+    termination: edge
