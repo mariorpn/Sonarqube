@@ -1,7 +1,7 @@
 # Sonarqube - Openshift
 
-Default user: admin
-Default pass: admin
+##### Default user: admin
+##### Default pass: admin
 
 ## 1. Adjust on namespace
 ##### If you need adjust namespace, edit line 5
